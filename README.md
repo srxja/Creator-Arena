@@ -54,8 +54,7 @@ python run.py --sweep    # 90 runs -> results.csv + figures/
 
 ## Results
 
-TODO -- fill in after the sweep. Table of final diversity and niche welfare
-by K and creator count.
+To do
 
 | K | creators | final diversity | mainstream welfare | niche welfare | gini |
 |---|----------|-----------------|--------------------|---------------|------|
